@@ -37,10 +37,10 @@ def extract_blocks_docx(doc_path):
         if match:
             number = normalize_number(match.group(1))
 
-            # Remove o número do final
+            # Remove the number from the end
             content = re.sub(r"\(?\d+(?:-\d+)?\)?$", "", text).strip()
 
-            # Normaliza espaços mas não pontuação
+            # Normalize spaces but not punctuation
             content = re.sub(r"\s+", " ", content)
 
             blocks[number] = content
