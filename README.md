@@ -23,7 +23,7 @@ Amazon: https://a.co/d/0aK8Labg
 
 Google Books: https://books.google.com.br/books/about?id=Y2jHEQAAQBAJ&redir_esc=y
 
-Kobo: "coming soon"
+Kobo: "https://www.kobo.com/br/pt/ebook/mobius-suibom?sId=893e0859-46ce-4598-bcc3-f12ff56af8fb&ssId=Ok6dLAt7KKSR3BT7dPYp2&cPos=1"
 
 D2D (Apple and other platforms): https://books2read.com/u/mKnodV
 
