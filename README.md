@@ -62,5 +62,5 @@ D2D (Apple e outras plataformas): https://books2read.com/u/bWD8NW
 Página do autor: https://books2read.com/brunosalgado
 
 <p align="center">
-<img src="Logo.png" width="400" height="200">
+<img src="Logo.png" width="400" height="400">
 </p>
