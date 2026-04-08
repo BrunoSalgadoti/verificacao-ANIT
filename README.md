@@ -12,6 +12,11 @@ This study proposes the formalization of a structural model entitled Narrative A
 For empirical verification, two complete versions of the same previously published short story are presented, organized in distinct sequences yet composed of exactly the same textual units. The formal analysis includes descriptive logical modeling, objective criteria of verifiability, and a complete demonstration in the annexes. The results indicate that ANIT constitutes a verifiable structural model in which order functions as an ontological operator capable of producing distinct narrative realities without any rewriting, suppression, insertion, or modification of the textual content.
 The literary experiment used for demonstration is published in the work Möbius & suiböM (Salgado, 2026), currently available in major international digital book platforms.
 
+---
+# BRN -Central (Home Page)
+### https://bubbly-coil-af9.notion.site/brn-central
+---
+
 ## Working Paper
 Link to the Zenodo repository for the workpaper:
 ## Research Links
